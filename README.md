@@ -2,7 +2,7 @@
 
 A simple Spring Boot 3.3.5 project with:
 
-- Uses [MealsAPI](https://www.themealdb.com/api/json/v1/1) to fetch food recepie
+- Uses [MealsAPI](https://www.themealdb.com/api.php) to fetch food recepie
 - Custom `ApiResponse` wrapper for uniform JSON responses
 - `ResponseBodyAdvice` to auto-wrap responses
 - Swagger UI documentation (SpringDoc OpenAPI)
